@@ -8,6 +8,20 @@
       "when": 1767477828134,
       "tag": "0000_dazzling_mystique",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1767557658392,
+      "tag": "0001_nice_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1767557734420,
+      "tag": "0002_flowery_maggott",
+      "breakpoints": true
     }
   ]
 }

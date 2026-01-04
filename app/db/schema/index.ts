@@ -1,4 +1,4 @@
-export { friendshipsTable } from "./friends";
-export { rolesTable } from "./roles";
-export { userRolesTable } from "./user_roles";
-export { usersTable } from "./users";
+export * from "./friends";
+export * from "./roles";
+export * from "./user_roles";
+export * from "./users";
